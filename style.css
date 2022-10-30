@@ -1,0 +1,23 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    background-color: red;
+    color: rgb(0, 186, 0);
+}
+.top {
+    color: rgb(0, 186, 0);
+}
+legend {
+    color: rgb(0, 186, 0);
+    font-weight: bold;
+}
+
+.pozadina {
+    background-color: rgb(225, 37, 153);
+}
+
+.pozadina2 {
+    background-color: rgb(107, 159, 255);
+}
